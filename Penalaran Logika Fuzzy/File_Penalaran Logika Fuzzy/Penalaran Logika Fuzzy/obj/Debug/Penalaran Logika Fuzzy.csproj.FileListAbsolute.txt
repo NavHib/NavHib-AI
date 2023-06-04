@@ -1,0 +1,21 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.exe.config
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.csprojResolveAssemblyReference.cache
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\obj\Debug\Penalaran_Logika_Fuzzy.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\obj\Debug\Penalaran_Logika_Fuzzy.Properties.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.csproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.pdb
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.exe.config
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.exe
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.pdb
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.exe
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.pdb
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.csprojResolveAssemblyReference.cache
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran_Logika_Fuzzy.Form1.resources
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran_Logika_Fuzzy.Properties.Resources.resources
+E:\DATA NAUVAL\Perkuliahan\Semerter 4\Kecerdasan Buatan\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.csproj.GenerateResource.Cache
+E:\DATA NAUVAL\Perkuliahan\Project & Portofolio\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\bin\Debug\Penalaran Logika Fuzzy.exe.config
+E:\DATA NAUVAL\Perkuliahan\Project & Portofolio\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.exe
+E:\DATA NAUVAL\Perkuliahan\Project & Portofolio\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\Penalaran Logika Fuzzy\obj\Debug\Penalaran Logika Fuzzy.pdb
